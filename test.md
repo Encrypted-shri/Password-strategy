@@ -1,1 +1,1 @@
-This is test and also good.
+This is test
